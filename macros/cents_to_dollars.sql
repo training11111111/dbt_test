@@ -1,5 +1,5 @@
-{%  marco cents_to_dollars()  %}
+{%  macro cents_to_dollars()  %}
 
 ID/100
 
-{% endmarco  %}
+{% endmacro  %}

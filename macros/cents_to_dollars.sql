@@ -1,4 +1,4 @@
-{%  marco cents_to_dollars  %}
+{%  marco cents_to_dollars()  %}
 
 ID/100
 

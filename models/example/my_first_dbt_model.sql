@@ -11,17 +11,17 @@
 
 with source_data as (
 
-    select 1 as id
+    select 1 as id , 'Apple' as Fruit_Name
     union all
-    select 2 as id
+    select 2 as id , 'Orange' as Fruit_Name
     union all
-    select 3 as id
+    select 3 as id , 'Pear' as Fruit_Name
     union all
-    select 4 as id
+    select 4 as id  , 'Grapes' as Fruit_Name
     union all
-    select 5 as id
+    select 5 as id  , 'Kiwi' as Fruit_Name
     union all
-    select 6 as id
+    select 6 as id  , 'Banana' as Fruit_Name
 
 )
 
